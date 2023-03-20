@@ -94,8 +94,8 @@ body {
 
 .title-1 {
     position: absolute;
-    left: 11.02%;
-    top: 28.05%;
+    left: 127px;
+    top: 131px;
     font-family: 'Inter';
     font-style: normal;
     font-weight: 700;
@@ -107,14 +107,14 @@ body {
 
 .rasm {
     position: absolute;
-    left: 26%;
-    top: 38.23%;
+    left: 322.61px;
+    top: 190.56px;
 }
 
 .text {
     position: absolute;
-    left: 11.02%;
-    top: 63.38%;
+    left: 127px;
+    top: 381px;
 
     font-family: 'Inter';
     font-style: normal;
@@ -125,8 +125,8 @@ body {
 
 .rasm1 {
     position: absolute;
-    left: 50.61%;
-    top: 22.99%;
+    left: 583px;
+    top: 155px;
 }
 
 .continer1 {
