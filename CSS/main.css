@@ -79,10 +79,9 @@ body {
 
 .el {
     position: absolute;
-    left: 76.33%;
-    right: 8.33%;
-    top: -76.67%;
-    bottom: 8.33%;
+    left: 925px;
+    top: 34px;
+
 }
 
 .continer {
